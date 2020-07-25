@@ -8,7 +8,11 @@ This is a fast key generation snippets tool for the inside of the XSYX frontend 
 
 使用**yxvue、YXVUE**快键生成vue代码  
 
-Generate vUE code using **yxvue, YXVUE** fast keys  
+Generate vUE code using **yxvue/YXVUE** fast keys  
+
+使用**yxsto、YXSTO**快键生成vue代码  
+
+Generate store js code using **yxsto/YXSTO** fast keys  
 
 
 ## Requirements
@@ -34,11 +38,15 @@ IssuesUrl:https://github.com/IrvingBryant/xsyx-snippets/issues
 
 ## Release Notes
 
-### 0.0.1
+### 0.0.4
 
-初版仅支持vue代码片段  
+支持vue代码片段  
 
-The first version only supports VUE snippets  
+The first version  supports VUE snippets  
+
+支持store js代码片段  
+
+The first version supports store js snippets  
 
 -----------------------------------------------------------------------------------------------------------
 

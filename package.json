@@ -2,7 +2,7 @@
   "name": "xsyx-snippets",
   "displayName": "xsyx-snippets",
   "description": "Code snippets for internal xsyx company",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon/icon.png",
   "publisher": "sheyang",
   "engines": {
