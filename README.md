@@ -13,9 +13,9 @@ Generate vUE code using **yxvue, YXVUE** fast keys
 
 ## Requirements
 
-支持vscode1.47.0及以上版本
+支持vscode1.28.0及以上版本
 
-Support VSCODE1.47.0 and above
+Support VSCODE1.28.0 and above
 
 ## Extension Settings
 

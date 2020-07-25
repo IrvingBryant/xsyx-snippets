@@ -2,7 +2,7 @@
   "name": "xsyx-snippets",
   "displayName": "xsyx-snippets",
   "description": "Code snippets for internal xsyx company",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon/icon.png",
   "publisher": "sheyang",
   "engines": {
@@ -24,6 +24,14 @@
           "YXVUE"
         ],
         "path": "./snippets/vue-snippets.json"
+      },
+      {
+        "language": "js",
+        "aliases": [
+          "yxsto",
+          "YXSTO"
+        ],
+        "path": "./snippets/store-snippets.json"
       }
     ]
   },

@@ -1,0 +1,21 @@
+{
+	"vue template": {
+		"prefix": ["yxsto", "YXSTO"],
+		"body": [
+      "const $TM_FILENAME_BASE = {",
+      "  state: {",
+      "",
+      "  }",
+      "  mutations: {",
+      "",
+      "  }",
+      "  actions: {",
+      "",
+      "  }",
+      "}",
+      "",
+      "export default $TM_FILENAME_BASE"
+		],
+		"description": "create a store frame(xsyx)"
+	}
+}
