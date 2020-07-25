@@ -1,29 +1,33 @@
 {
-    "name": "xsyx-snippets",
-    "displayName": "xsyx-snippets",
-    "description": "",
-    "version": "0.0.1",
-    "icon": "icon/icon.jpg",
-    "engines": {
-        "vscode": "^1.47.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/IrvingBryant/forchange-snippets.git"
-    },
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript",
-                "path": "./snippets/snippets.json"
-            }
-        ]
-    },
-    "bugs": {
-      "url": "https://github.com/IrvingBryant/forchange-snippets/issues"
-   },
-    "homepage": "https://github.com/IrvingBryant/forchange-snippets#readme"
+  "name": "xsyx-snippets",
+  "displayName": "xsyx-snippets",
+  "description": "Code snippets for internal xsyx company",
+  "version": "0.0.1",
+  "icon": "icon/icon.png",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IrvingBryant/xsyx-snippets.git"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "aliases": [
+          "yxvue",
+          "YXVUE"
+        ],
+        "path": "./snippets/vue-snippets.json"
+      }
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/IrvingBryant/xsyx-snippets/issues"
+  },
+  "homepage": "https://github.com/IrvingBryant/xsyx-snippets/blob/master/xsyx-snippets/README.md"
 }
