@@ -2,11 +2,11 @@
   "name": "xsyx-snippets",
   "displayName": "xsyx-snippets",
   "description": "Code snippets for internal xsyx company",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon/icon.png",
   "publisher": "sheyang",
   "engines": {
-    "vscode": "^1.47.0"
+    "vscode": "^1.28.0"
   },
   "categories": [
     "Snippets"
@@ -18,7 +18,7 @@
   "contributes": {
     "snippets": [
       {
-        "language": "javascript",
+        "language": "vue",
         "aliases": [
           "yxvue",
           "YXVUE"
