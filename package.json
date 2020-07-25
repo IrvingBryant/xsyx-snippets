@@ -4,6 +4,7 @@
   "description": "Code snippets for internal xsyx company",
   "version": "0.0.1",
   "icon": "icon/icon.png",
+  "publisher": "sheyang",
   "engines": {
     "vscode": "^1.47.0"
   },
@@ -29,5 +30,5 @@
   "bugs": {
     "url": "https://github.com/IrvingBryant/xsyx-snippets/issues"
   },
-  "homepage": "https://github.com/IrvingBryant/xsyx-snippets/blob/master/xsyx-snippets/README.md"
+  "homepage": "https://github.com/IrvingBryant/xsyx-snippets/blob/master/vsc-extension-quickstart.md"
 }
